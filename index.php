@@ -73,7 +73,7 @@ p {
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="background-color: #fed6d0">
   <div class="carousel-inner">
     <div class="carousel-item active test">
-      <img class="d-block w-100" src="hero.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/hero.jpg" alt="First slide">
 
     </div>
     <div class="carousel-item">
@@ -84,7 +84,7 @@ p {
             <h1>Professor Dixon Olutade Torimiro @60</h1>
             <br>
             <br>
-            <img src="career.jpg" alt="Profile Image" style="width: 150px;" id="profile-img">
+            <img src="images/career.jpg" alt="Profile Image" style="width: 150px;" id="profile-img">
         </div>
       </div>
     </div>
@@ -152,7 +152,7 @@ Lots of love from your Queen Mojisola
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="1.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/1.jpg" alt="Second slide">
 
     </div>
 
@@ -171,7 +171,7 @@ Ayindes' family.
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="2.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/2.jpg" alt="Third slide">
 
     </div>
 
@@ -196,7 +196,7 @@ May you continue to wax stronger and stronger physically and spiritually. More w
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="3.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/3.jpg" alt="Fourth slide">
 
     </div>
 
@@ -216,7 +216,7 @@ Cheers.
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="4.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/4.jpg" alt="Fifth slide">
 
     </div>
 
@@ -237,7 +237,7 @@ Happy birthday.  </p>
 
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="5.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/5.jpg" alt="Sixth slide">
 
     </div>
 
@@ -252,7 +252,7 @@ Happy birthday.  </p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="6.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/6.jpg" alt="Seventh slide">
 
     </div>
 
@@ -273,7 +273,7 @@ You mean a lot to thousands of people in the world. May God add another 60 or mo
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="7.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/7.jpg" alt="Eight slide">
 
     </div>
 
@@ -295,7 +295,7 @@ People can only show you the door, you are the one who has to find the key, unlo
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="8.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/8.jpg" alt="Ninth slide">
 
     </div>
 
@@ -314,7 +314,7 @@ People can only show you the door, you are the one who has to find the key, unlo
 
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="9.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/9.jpg" alt="Tenth slide">
 
     </div>
 
@@ -331,7 +331,7 @@ People can only show you the door, you are the one who has to find the key, unlo
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="10.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/10.jpg" alt="Eleventh slide">
 
     </div>
 
@@ -350,7 +350,7 @@ People can only show you the door, you are the one who has to find the key, unlo
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="11.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/11.jpg" alt="Twelfth slide">
 
     </div>
 
@@ -371,7 +371,7 @@ Happy birthday to you 🎂.
 
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="12.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/12.jpg" alt="Thirtheenth slide">
 
     </div>
 
@@ -389,7 +389,7 @@ Happy birthday to you 🎂.
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="13.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/13.jpg" alt="Fourteenth slide">
 
     </div>
 
@@ -406,7 +406,7 @@ Happy birthday to you 🎂.
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="14.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/14.jpg" alt="Fifteenth slide">
 
     </div>
 
@@ -425,7 +425,7 @@ Happy birthday to you 🎂.
 
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="15.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/15.jpg" alt="Sixteenth slide">
 
     </div>
 
@@ -443,7 +443,7 @@ Congratulations sir!.</p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="16.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/16.jpg" alt="Seventeenth slide">
 
     </div>
 
@@ -462,7 +462,7 @@ Cheers!</p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="17.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/17.jpg" alt="Eighteenth slide">
 
     </div>
 
@@ -479,7 +479,7 @@ Happy birthday, Dixon! I wish you many more years in good health and wealth. Con
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="18.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/18.jpg" alt="Nineteenth slide">
 
     </div>
 
@@ -501,7 +501,7 @@ May God continue to bless you in Jesus Mighty name Amen 🙏🙏🙏</p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="19.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/19.jpg" alt="Twentieth slide">
 
     </div>
 
@@ -523,7 +523,7 @@ Thank you.</p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="20.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/20.jpg" alt="Tweenty first slide">
 
     </div>
 
@@ -546,7 +546,7 @@ May the Lord take you to greater heights! Amen.</p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="21.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/21.jpg" alt="Tweenty second slide">
 
     </div>
 
@@ -564,7 +564,7 @@ May the Lord take you to greater heights! Amen.</p>
 
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="22.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/22.jpg" alt="Tweenty third slide">
 
     </div>
 
@@ -579,7 +579,7 @@ I join you and your family in giving thanks to the Lord Jesus Christ for His goo
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="23.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/23.jpg" alt="Twenty fourth slide">
 
     </div>
 
@@ -597,7 +597,7 @@ Wishing you all the best for the years ahead. May they be full of fun, adventure
 
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="24.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/24.jpg" alt="Twenty fifth slide">
 
     </div>
 
@@ -615,7 +615,7 @@ Thanks for all you do!
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="25.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/25.jpg" alt="Twenty sixth slide">
 
     </div>
 
@@ -630,7 +630,7 @@ Wishing you a Splendid Birthday and many more joyful returns of your God-given d
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="26.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/26.jpg" alt="Twenty seventh slide">
 
     </div>
 
@@ -647,7 +647,7 @@ Daddy, God will continue to bless you and keep you. The Lord will make his face 
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="27.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/27.jpg" alt="Twenty eight slide">
 
     </div>
 
@@ -662,7 +662,7 @@ Congratulations my brother.  <p class="signature">–Abayomi Osokomaiya</p>
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="28.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/28.jpg" alt="Twenty ninth slide">
 
     </div>
 
@@ -677,7 +677,7 @@ Professor Torimiro- I join your beautiful family and many friends around the wor
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="29.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/29.jpg" alt="Thirtieth slide">
 
     </div>
     <div class="carousel-item">
@@ -690,7 +690,7 @@ Happy birthday to you Prof. May God increase you on all sides as you increase in
       </div>
     </div>
     <div class="carousel-item test">
-      <img class="d-block w-100" src="30.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/30.jpg" alt="Thirthy first slide">
 
     </div>
 
@@ -705,7 +705,7 @@ Happy Diamond Jubilee Sir, God continue to bless and favour you in all that you 
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="31.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/31.jpg" alt="Thirthy second slide">
 
     </div>
 
@@ -722,7 +722,7 @@ Happy birthday to you my BFF! God Will crown the rest of your life with abundanc
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="32.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/32.jpg" alt="Thirthy third slide">
 
     </div>
 
@@ -738,7 +738,7 @@ Wishing you sir a new outstanding renewal of life with greater relevance to God 
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="33.jpg" alt="First slide">
+      <img class="d-block w-100" src="images/33.jpg" alt="Thirthy fourth slide">
 
     </div>
 
@@ -796,14 +796,14 @@ Wishing you sir a new outstanding renewal of life with greater relevance to God 
 
 
 <audio controls loop id="birthday_audio" style="display: none">
-<source src="song-2.ogg" type="audio/ogg">
+<source src="images/song-2.ogg" type="audio/ogg">
 </audio>
 
 
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="images/https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="images/https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="images/https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 
    <script>

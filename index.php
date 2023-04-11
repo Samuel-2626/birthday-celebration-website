@@ -630,7 +630,7 @@ Wishing you a Splendid Birthday and many more joyful returns of your God-given d
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="images/26.jpg" alt="Twenty seventh slide">
+      <img class="d-block w-100" src="images/13.jpg" alt="Twenty seventh slide">
 
     </div>
 
@@ -647,7 +647,7 @@ Daddy, God will continue to bless you and keep you. The Lord will make his face 
     </div>
 
     <div class="carousel-item test">
-      <img class="d-block w-100" src="images/27.jpg" alt="Twenty eight slide">
+      <img class="d-block w-100" src="images/15.jpg" alt="Twenty eight slide">
 
     </div>
 
@@ -796,14 +796,14 @@ Wishing you sir a new outstanding renewal of life with greater relevance to God 
 
 
 <audio controls loop id="birthday_audio" style="display: none">
-<source src="images/song-2.ogg" type="audio/ogg">
+<source src="song-2.ogg" type="audio/ogg">
 </audio>
 
 
 
-<script src="images/https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="images/https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="images/https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 
    <script>
